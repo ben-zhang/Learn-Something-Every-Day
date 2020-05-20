@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-git config user.name "Circle CI"
+git config user.name "Ben Zhang"
 git config user.email "b334zhan@gmail.com"
 
 message="Deploy commit $(git rev-parse HEAD)"
